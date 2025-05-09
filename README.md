@@ -1,4 +1,6 @@
 # CS465_SakC
+CheckPoint 1
+
 
 Checkpoint 1 Video: https://youtu.be/PyrUIsYFd-M
 
@@ -8,6 +10,8 @@ Checkpoint 1 Demo Video: https://youtube.com/shorts/B9hQOUfX8tQ
 
 
 Final Submission
+
+
 Link to Code Explanation: https://youtu.be/xuPNcw8kspo
 
 Link Downloaded Code Explanation: https://drive.google.com/file/d/1ftQwkv4sSQm3FWt0V3C8rNUodcF3l0SS/view?usp=drive_link
